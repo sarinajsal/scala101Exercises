@@ -1,0 +1,34 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/sarina.salamon/Documents/scala101try/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$Sailboat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditionals2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditionals$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$hasDesigner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditionals2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operators$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test$ChocolateBar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$hasArtillery.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditionals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operators.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operators$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$PirateShip.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$Boat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test$ChocolateBar$Filling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditionals$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conditionals2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Boats$LuxurySailBoat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/sarina.salamon/Documents/scala101try/target/scala-2.13/classes.bak[0m
